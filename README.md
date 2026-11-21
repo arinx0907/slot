@@ -34,10 +34,10 @@ Execute the program using runserver command.
     </head>
     <body>
         <center>
-        <img src="logo.png" width = "800">
-        <h3>SLOT TIME TABLE - HARINI SHREE S (26014130)</h3>
+        <img src="logo.png" width ="800">
         <table bgcolor = "mint" border="2" cellpadding="6" cellspacing="2">
-        <tr bgcolor="cyan">
+        <h3>SLOT TIME TABLE - HARINI SHREE S (26014130)</h3>
+        <tr bgcolor="olive">
             <th>Day/Time</th>
             <th>Monday</th>
             <th>Tuesday</th>
@@ -47,8 +47,8 @@ Execute the program using runserver command.
             <th>Saturday</th>
         </tr>
 
-        <tr bgcolor="coral">
-            <th bgcolor="cyan">8-9:29</th>
+        <tr bgcolor="DarkSeaGreen">
+            <th bgcolor="olive">8:00-9:29</th>
             <td>ENG</td>
             <td>FCC</td>
             <td>ENG</td>
@@ -57,8 +57,8 @@ Execute the program using runserver command.
             <td>PY</td>
         </tr>
 
-       <tr bgcolor="coral">
-            <th bgcolor="cyan">9:45-11:14</th>
+       <tr bgcolor="DarkSeaGreen">
+            <th bgcolor="olive">9:45-11:14</th>
             <td>DE</td>
             <td>CAL</td>
             <td>FREE SLOT</td>
@@ -67,21 +67,21 @@ Execute the program using runserver command.
             <td>FWAD</td>
         </tr>
 
-        <tr bgcolor="coral">
-            <th bgcolor="cyan">11:15-1:14</th>
-            <td colspan = "6" align = "center" bgcolor ="grey">LUNCH</td>
+        <tr bgcolor="DarkSeaGreen">
+            <th bgcolor="olive">11:15-13:00</th>
+            <td colspan = "6" align = "center" bgcolor ="oldlace">LUNCH</td>
         </tr>
 
-        <tr bgcolor="coral">
-            <th bgcolor="cyan">1:15-2:44</th>
+        <tr bgcolor="DarkSeaGreen">
+            <th bgcolor="olive">13:15-14:45</th>
             <td>FREE SLOT</td>
             <td>CAL</td>
             <td colspan="2">FREE SLOT</td>
             <td colspan="2">FWAD</td>
         </tr>
 
-        <tr bgcolor="coral">
-            <th bgcolor="cyan">3-4:29</th>
+        <tr bgcolor="DarkSeaGreen">
+            <th bgcolor="olive">15:00-16:30</th>
             <td colspan ="2">FREE SLOT</td>
             <td>PY</td>
             <td colspan = "3">FREE SLOT</td>
@@ -91,7 +91,7 @@ Execute the program using runserver command.
     <br><br>
 
 
-    <table border="2" cellpadding="6" cellspacing="2">
+    <table border="10" cellpadding="6" cellspacing="2">
 
         <tr>
             <th>S.No</th>
@@ -140,10 +140,11 @@ Execute the program using runserver command.
 
     </body>
 </html>
+
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
